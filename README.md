@@ -2,4 +2,4 @@
 
 ** To build **
 
-robot -d <folder name where you wanto to put the output> --loglevel TRACE <test folder name>/<testCaseName>.robot
+robot -d (folder name where you wanto to put the output) --loglevel TRACE (test folder name)/(testCaseName).robot
